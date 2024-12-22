@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: KomikaTitle-Kaps
+font link: https://www.fontsquirrel.com/fonts/komika-title
+font author: Fredrick Nader
+font author site: http://pedroreina.net/apostrophiclab/
+
+
+icon designer: Wilson Joseph
+icon designer link: /wilsonjoseph
+        
+{"bg":"#E1EFF7","icon-gradient-0":"#006678","icon-gradient-1":"#4FA8FF","font":"#0D2633","slogan":"#213a47"}
+      
